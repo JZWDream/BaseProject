@@ -1,6 +1,6 @@
 //
 //  WDBuglyManager.h
-//  LeanCloudDemo
+//  BaseProject
 //
 //  Created by 王笛 on 2019/3/26.
 //  Copyright © 2019 王笛. All rights reserved.

@@ -40,7 +40,7 @@
 
 - (void)clickBack
 {
-    WDLog(@"----");
+    NSLog(@"----");
     [self popViewControllerAnimated:YES];
 }
 
@@ -95,7 +95,7 @@
 
 - (void)dealloc
 {
-    WDLog(@"导航控制器释放了");
+    NSLog(@"导航控制器释放了");
 }
 
 @end

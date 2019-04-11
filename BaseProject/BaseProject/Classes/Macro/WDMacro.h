@@ -11,9 +11,9 @@
 
 //TODO:Log
 #ifdef DEBUG
-#define WDLog(...) NSLog(__VA_ARGS__)
+#define NSLog(...) NSLog(__VA_ARGS__)
 #else
-#define WDLog(...)
+#define NSLog(...)
 #endif
 
 //TODO:Screen Fit
